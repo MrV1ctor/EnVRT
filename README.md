@@ -7,11 +7,22 @@ I made this for my AP Research class, my accompanying research paper will be lin
 
 A build download will also soon be linked here from itch.io
 
-"./EnVRT/" is the entire Unity project
-I've zipped it from 8.49gb to 3.53gb but I cannot upload it without Git LFS :(
+"./EnVRT/" is the compressed Unity project, open with Unity editor in 2022.3.4f1
 
-"./EnVRT/Builds/final build/" contains an unzipped and zipped build of the app.
+"./Build/" contains the built app.
 
-Please let me know of any bugs/optimizations/additions I should make!
+Please let me know of any /optimizations/additions I should make!
 
 -Victor Urumov
+
+
+
+
+
+
+
+
+
+This Unity project was made by modifying the following:
+https://www.youtube.com/watch?v=apnfGuMI0Dc
+https://github.com/julienkay/com.doji.genesis
