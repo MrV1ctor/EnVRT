@@ -28,3 +28,7 @@ This Unity project was made by modifying the following:
 https://www.youtube.com/watch?v=apnfGuMI0Dc
 
 https://github.com/julienkay/com.doji.genesis
+
+
+View the presentation I made for this research paper in Motion Canvas here:
+https://github.com/MrV1ctor/EnVRT-Presentation-AP-Research
