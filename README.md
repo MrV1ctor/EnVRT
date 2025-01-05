@@ -5,7 +5,7 @@ This is a VR application I made in Unity for Environmental Therapy
 
 I made this for my AP Research class, here is my accompanying research paper: https://drive.google.com/file/d/1Z1iNJJfSONHRQ2TJpN8j4a_CJqCa6edT/view?usp=sharing
 
-Download the build from itch.io at: https://github.com/MrV1ctor/EnVRT
+Download the build from itch.io at: https://mrv1ctor.itch.io/envrt
 
 "./EnVRT/" is the compressed Unity project, open with Unity editor in 2022.3.4f1
 
